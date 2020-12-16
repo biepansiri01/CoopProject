@@ -112,7 +112,3 @@ pip install PyPDF2
 pip install Pillow
 ```
 
-- Pillow
-```sh
-pip install Pillow
-```
